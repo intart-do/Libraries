@@ -5,4 +5,9 @@ D Resistor, small symbol
 K r resistor 
 $ENDCMP
 #
+$CMP Value
+D Resistor, small symbol
+K r resistor 
+$ENDCMP
+#
 #End Doc Library
