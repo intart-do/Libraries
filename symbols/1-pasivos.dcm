@@ -11,8 +11,8 @@ K cap capacitor
 $ENDCMP
 #
 $CMP POT
-D Potentiometer
-K resistor variable
+D Resistor
+K r resistor 
 $ENDCMP
 #
 $CMP R
