@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4007
+D Diode 1N4007
+K diode 1N4007
+$ENDCMP
+#
+#End Doc Library
