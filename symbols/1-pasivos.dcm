@@ -1,7 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP C
+D Unpolarized Capacitor
+K capacitor cap
+$ENDCMP
+#
 $CMP Resistor
-D Resistor, small symbol
+D Resistor
 K r resistor 
 $ENDCMP
 #
