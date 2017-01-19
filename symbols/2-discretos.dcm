@@ -3,6 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP 1N4007
 D Diode 1N4007
 K diode 1N4007
+F /home/intart/Development/Kicad/Libraries/datasheets/1N4007.pdf
 $ENDCMP
 #
 #End Doc Library
