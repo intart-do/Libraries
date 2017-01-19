@@ -5,7 +5,7 @@ D Unpolarized Capacitor
 K capacitor cap
 $ENDCMP
 #
-$CMP Resistor
+$CMP R
 D Resistor
 K r resistor 
 $ENDCMP
