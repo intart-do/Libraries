@@ -10,6 +10,11 @@ D Polarised capacitor
 K cap capacitor 
 $ENDCMP
 #
+$CMP POT
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
 $CMP R
 D Resistor
 K r resistor 
