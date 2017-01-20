@@ -6,4 +6,10 @@ K Adjustable Voltage Regulator 1.5A Positive
 F /home/intart/Development/Kicad/Libraries/datasheets/LM317T.pdf
 $ENDCMP
 #
+$CMP LM4040C20IDBZR
+D LM4040xxx Precision Micropower Shunt Voltage Reference
+K voltaje reterence
+F /home/intart/Development/Kicad/Libraries/datasheets/LM4040C20IDBZR.pdf
+$ENDCMP
+#
 #End Doc Library
