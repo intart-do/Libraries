@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RELAY_G5LE
+D Relay SPDT 10A
+K relay spdt g5le g5le-14
+F /home/intart/development/kicad/libraries/datasheets/Relay G5LE-14.pdf
+$ENDCMP
+#
+$CMP RELAY_G5LE-14
+D Relay SPDT 10A
+K relay spdt g5le g5le-14
+F /home/intart/development/kicad/libraries/datasheets/Relay G5LE-14.pdf
+$ENDCMP
+#
 #End Doc Library
