@@ -6,10 +6,4 @@ K diode 1N4007
 F /home/intart/Development/Kicad/Libraries/datasheets/1N4007.pdf
 $ENDCMP
 #
-$CMP MMBT3904
-D NPN Small Signal Transistor 300mW 100mA 60V
-K npn MMBT3904
-F /home/intart/Development/kicad/Libraries/datasheets/MMBT3904.pdf
-$ENDCMP
-#
 #End Doc Library
