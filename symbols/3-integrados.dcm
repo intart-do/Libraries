@@ -12,12 +12,6 @@ K voltaje reterence
 F /home/intart/Development/Kicad/Libraries/datasheets/LM4040C20IDBZR.pdf
 $ENDCMP
 #
-$CMP LM741
-D Op amp
-K Ampliop
-F AmpliOp.sch
-$ENDCMP
-#
 $CMP TLE2141IDR
 D LOW-NOISE HIGH-SPEED PRECISION OPERATIONAL AMPLIFIER
 K opamp op-amp tle2141
