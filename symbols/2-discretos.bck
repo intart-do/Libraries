@@ -7,8 +7,9 @@ F /home/intart/Development/Kicad/Libraries/datasheets/1N4007.pdf
 $ENDCMP
 #
 $CMP 1N4148
-D Diodo 1N4148
-K diodo 1n4148
+D Diode 1N4007
+K diode 1N4007
+F /home/intart/Development/Kicad/Libraries/datasheets/1N4007.pdf
 $ENDCMP
 #
 $CMP MMBT3904
