@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM317LZRPG
+D 100 mA Adjustable Output Positive Voltage Regulator
+K Adjustable Voltage Regulator 1.5A Positive
+F /home/intart/Development/Kicad/Libraries/datasheets/LM317LZRPG.pdf
+$ENDCMP
+#
 $CMP LM317T
 D 1.5A 1.2V to 35V Adjustable Linear Regulator, TO-220
 K Adjustable Voltage Regulator 1.5A Positive
