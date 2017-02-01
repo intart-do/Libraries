@@ -12,6 +12,29 @@ K diode 1N4148
 F /home/intart/Development/Kicad/Libraries/datasheets/1N4007.pdf
 $ENDCMP
 #
+$CMP APT2012EC
+D LED SMD RED
+K diode led red
+F /home/intart/Development/Kicad/Libraries/datasheets/APT2012EC.pdf
+$ENDCMP
+#
+$CMP APT2012SGC
+D LED SMD GREEN
+K diode led green
+F /home/intart/Development/Kicad/Libraries/datasheets/APT2012SGC.pdf
+$ENDCMP
+#
+$CMP APT2012YC
+D LED SMD YELLOW
+K diode led yellow
+F /home/intart/Development/Kicad/Libraries/datasheets/APT2012YC.pdf
+$ENDCMP
+#
+$CMP LED
+D LED generic
+K led diode
+$ENDCMP
+#
 $CMP MMBT3904
 D NPN Small Signal Transistor 300mW 100mA 60V
 K npn MMBT3904
