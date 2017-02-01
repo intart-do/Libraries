@@ -18,6 +18,12 @@ K voltaje reterence
 F /home/intart/Development/Kicad/Libraries/datasheets/LM4040C20IDBZR.pdf
 $ENDCMP
 #
+$CMP MC7824ACTG
+D 24V 1.0A Positive Voltage Regulator, TO-220
+K Voltage Regulator 1A Positive 24v 7824
+F /home/intart/Development/Kicad/Libraries/datasheets/MC7824ACTG.pdf
+$ENDCMP
+#
 $CMP TLE2141IDR
 D LOW-NOISE HIGH-SPEED PRECISION OPERATIONAL AMPLIFIER
 K opamp op-amp tle2141
