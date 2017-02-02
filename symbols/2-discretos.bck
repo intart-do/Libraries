@@ -41,4 +41,10 @@ K npn MMBT3904
 F /home/intart/Development/kicad/Libraries/datasheets/MMBT3904.pdf
 $ENDCMP
 #
+$CMP NX7002AK
+D 60 V single N-channel MOSFET
+K NMOS n-mos n-mosfet transistor 7002
+F /home/intart/Development/Kicad/Libraries/datasheets/NX7002AK.pdf
+$ENDCMP
+#
 #End Doc Library
