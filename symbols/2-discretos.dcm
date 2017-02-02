@@ -30,6 +30,12 @@ K diode led yellow
 F /home/intart/Development/Kicad/Libraries/datasheets/APT2012YC.pdf
 $ENDCMP
 #
+$CMP BZV55C3V3
+D Zener Diodes 3.3 Volt 500mW 5% 
+K diode zener
+F /home/intart/Development/Kicad/Libraries/datasheets/BZV55CXXX.pdf
+$ENDCMP
+#
 $CMP LED
 D LED generic
 K led diode
