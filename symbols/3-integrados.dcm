@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVT14
+D 3.3 V hex inverter Schmitt Trigger
+K hex inverter schmitt trigger
+F /home/intart/Development/Kicad/Libraries/datasheets/74LVT14.pdf
+$ENDCMP
+#
 $CMP LM317LZRPG
 D 100 mA Adjustable Output Positive Voltage Regulator
 K Adjustable Voltage Regulator 1.5A Positive
