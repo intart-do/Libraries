@@ -30,6 +30,12 @@ K Voltage Regulator 1A Positive 24v 7824
 F /home/intart/Development/Kicad/Libraries/datasheets/MC7824ACTG.pdf
 $ENDCMP
 #
+$CMP STM32F334R8Tx
+D ARM Cortex-M4 32b MCU+FPU, up to 64KB Flash, up to 16KB SRAM Max
+K stm32f334 stm32
+F /home/intart/Development/Kicad/Libraries/datasheets/STM32F334.pdf
+$ENDCMP
+#
 $CMP TLE2141IDR
 D LOW-NOISE HIGH-SPEED PRECISION OPERATIONAL AMPLIFIER
 K opamp op-amp tle2141
