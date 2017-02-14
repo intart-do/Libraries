@@ -15,7 +15,7 @@ D Resistor
 K r resistor 
 $ENDCMP
 #
-$CMP R
+$CMP R_0805
 D Resistor
 K r resistor 
 $ENDCMP
