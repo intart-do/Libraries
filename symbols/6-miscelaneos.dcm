@@ -6,4 +6,10 @@ K tactile switch
 F /home/intart/Development/Kicad/Libraries/datasheets/FSM4JH.pdf
 $ENDCMP
 #
+$CMP SW_PUSH_6mm
+D Tactile Switches SPST OFF (ON)
+K tactile switch
+F /home/intart/Development/Kicad/Libraries/datasheets/FSM4JH.pdf
+$ENDCMP
+#
 #End Doc Library
